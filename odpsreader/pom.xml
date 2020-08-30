@@ -46,7 +46,7 @@
 		<dependency>
 			<groupId>com.aliyun.odps</groupId>
 			<artifactId>odps-sdk-core</artifactId>
-			<version>0.19.3-public</version>
+			<version>0.26.2-public</version>
 		</dependency>
 
         <dependency>
@@ -115,8 +115,8 @@
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<configuration>
-					<source>1.6</source>
-					<target>1.6</target>
+					<source>1.8</source>
+					<target>1.8</target>
 					<encoding>${project-sourceEncoding}</encoding>
 				</configuration>
 			</plugin>

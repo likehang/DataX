@@ -35,4 +35,7 @@ public class Key {
     
     // writer file type suffix, like .txt  .csv
     public static final String SUFFIX = "suffix";
+
+    // not must , default -1
+    public static final String SPLITSIZE = "-1";
 }
